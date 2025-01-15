@@ -1,6 +1,6 @@
 # 📚 Magazine Subscription Behavior Analysis Using Logistic Regression and SVM
 
-![Magazine Subscription Behavior](https://github.com/SYEDFAIZAN1987/Magazine-Subscription-Behaviour-Analysis/blob/main/pic%201.png)
+![Magazine Subscription Behavior](https://github.com/SYEDFAIZAN1987/Magazine-Subscription-Behaviour-Analysis/blob/main/pic%202.png)
 
 ## 📘 About the Project
 
